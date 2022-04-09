@@ -1,5 +1,7 @@
 # Hotel_Booking_Analysis
-# Exploratory Data Analysis (EDA) on Hotel Booking Analysis
+# Exploratory Data Analysis (EDA) on Hotel Booking Analysis (AlmaBetter Verified Project)
+
+## Summary
 
 This project is aimed at performing Exploratory Data Analysis (EDA) on a hotel bookings dataset.
 Exploratory Data Analysis is a key part of any machine learning project. Performing an EDA helps a Data Scientist understand the data in depth.
@@ -27,3 +29,7 @@ Some of the important findings after performing the EDA are:
 10. Busiest months in India are November, April and May.
 11. India has a cancellation rate of 23.03%.
 12. Lead time for booking from India is 48.9 ~ 49 days.
+
+## References
+1. Exploratory Data Analysis (EDA) - https://www.ibm.com/cloud/learn/exploratory-data-analysis
+2. Seaborn Documentation - https://seaborn.pydata.org/api.html
