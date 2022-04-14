@@ -1,5 +1,3 @@
-# Hotel_Booking_Analysis
-
 <h1 align="center"> Exploratory Data Analysis (EDA) </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
