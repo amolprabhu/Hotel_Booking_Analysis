@@ -34,6 +34,20 @@ Some of the important findings after performing the EDA are:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2 id="credits"> :scroll: Credits</h2>
+
+Amol Prabhu | Avid Learner | Data Scientist | Machine Learning Enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amolprabhu/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amolprabhu)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amolprabhu)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/drive/folders/1IL3WB6ONxBI5Zrb3yLZCTydTdSAw9RpS?usp=sharing)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## 📚 References
 1. Exploratory Data Analysis (EDA) - https://www.ibm.com/cloud/learn/exploratory-data-analysis
 2. Seaborn Documentation - https://seaborn.pydata.org/api.html
